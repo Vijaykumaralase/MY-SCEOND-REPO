@@ -15,12 +15,13 @@ public class AppiumTest {
 	{
 		System.out.println("This is Appium test 02");
 	}
-	
 	@Test
 	public void Appium03()
 	{
-		System.out.println("This is updated by seconf QA");
+		System.out.println("This is 1st user (Creator) update 01");
 	}
+	
+	
 	
 
 }
