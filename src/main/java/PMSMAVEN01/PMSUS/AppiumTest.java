@@ -20,6 +20,11 @@ public class AppiumTest {
 	{
 		System.out.println("This is 1st user (Creator) update 01");
 	}
+	@Test
+	public void Appium04()
+	{
+		System.out.println("This is 2st user (teamate) update 01");
+	}
 	
 	
 	

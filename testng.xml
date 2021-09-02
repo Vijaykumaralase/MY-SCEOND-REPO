@@ -6,6 +6,7 @@
       <class name="PMSMAVEN01.PMSUS.RestAPITEST"/>
       <class name="PMSMAVEN01.PMSUS.Selenium01Test"/>
       <class name="PMSMAVEN01.PMSUS.AppiumTest"/>
+      <class name="PMSMAVEN01.PMSUS.SceonduserTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
