@@ -1,64 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-01T17:36:53 IST" name="Suite" finished-at="2021-09-01T17:36:53 IST" duration-ms="114">
+  <suite name="Suite" duration-ms="62" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
     <groups>
     </groups>
-    <test started-at="2021-09-01T17:36:53 IST" name="Test" finished-at="2021-09-01T17:36:53 IST" duration-ms="114">
+    <test name="Test" duration-ms="62" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
       <class name="PMSMAVEN01.PMSUS.Selenium01Test">
-        <test-method signature="Selenium02()[pri:0, instance:PMSMAVEN01.PMSUS.Selenium01Test@1d119efb]" started-at="2021-09-01T17:36:53 IST" name="Selenium02" finished-at="2021-09-01T17:36:53 IST" duration-ms="0" status="PASS">
+        <test-method status="PASS" signature="Selenium02()[pri:0, instance:PMSMAVEN01.PMSUS.Selenium01Test@4b553d26]" name="Selenium02" duration-ms="1" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Selenium02 -->
-        <test-method signature="Selenium03()[pri:0, instance:PMSMAVEN01.PMSUS.Selenium01Test@1d119efb]" started-at="2021-09-01T17:36:53 IST" name="Selenium03" finished-at="2021-09-01T17:36:53 IST" duration-ms="1" status="PASS">
+        <test-method status="PASS" signature="Selenium03()[pri:0, instance:PMSMAVEN01.PMSUS.Selenium01Test@4b553d26]" name="Selenium03" duration-ms="1" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Selenium03 -->
-        <test-method signature="Selenium04()[pri:0, instance:PMSMAVEN01.PMSUS.Selenium01Test@1d119efb]" started-at="2021-09-01T17:36:53 IST" name="Selenium04" finished-at="2021-09-01T17:36:53 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Selenium04 -->
-        <test-method signature="selenium01()[pri:0, instance:PMSMAVEN01.PMSUS.Selenium01Test@1d119efb]" started-at="2021-09-01T17:36:53 IST" name="selenium01" finished-at="2021-09-01T17:36:53 IST" duration-ms="1" status="PASS">
+        <test-method status="PASS" signature="selenium01()[pri:0, instance:PMSMAVEN01.PMSUS.Selenium01Test@4b553d26]" name="selenium01" duration-ms="1" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selenium01 -->
       </class> <!-- PMSMAVEN01.PMSUS.Selenium01Test -->
       <class name="PMSMAVEN01.PMSUS.AppiumTest">
-        <test-method signature="Appium01()[pri:0, instance:PMSMAVEN01.PMSUS.AppiumTest@659a969b]" started-at="2021-09-01T17:36:53 IST" name="Appium01" finished-at="2021-09-01T17:36:53 IST" duration-ms="1" status="PASS">
+        <test-method status="PASS" signature="Appium01()[pri:0, instance:PMSMAVEN01.PMSUS.AppiumTest@69a3d1d]" name="Appium01" duration-ms="1" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Appium01 -->
-        <test-method signature="Appium02()[pri:0, instance:PMSMAVEN01.PMSUS.AppiumTest@659a969b]" started-at="2021-09-01T17:36:53 IST" name="Appium02" finished-at="2021-09-01T17:36:53 IST" duration-ms="1" status="PASS">
+        <test-method status="PASS" signature="Appium02()[pri:0, instance:PMSMAVEN01.PMSUS.AppiumTest@69a3d1d]" name="Appium02" duration-ms="0" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Appium02 -->
-        <test-method signature="Appium03()[pri:0, instance:PMSMAVEN01.PMSUS.AppiumTest@659a969b]" started-at="2021-09-01T17:36:53 IST" name="Appium03" finished-at="2021-09-01T17:36:53 IST" duration-ms="2" status="PASS">
+        <test-method status="PASS" signature="Appium03()[pri:0, instance:PMSMAVEN01.PMSUS.AppiumTest@69a3d1d]" name="Appium03" duration-ms="0" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Appium03 -->
-        <test-method signature="Selenium08()[pri:0, instance:PMSMAVEN01.PMSUS.AppiumTest@659a969b]" started-at="2021-09-01T17:36:53 IST" name="Selenium08" finished-at="2021-09-01T17:36:53 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Selenium08 -->
       </class> <!-- PMSMAVEN01.PMSUS.AppiumTest -->
       <class name="PMSMAVEN01.PMSUS.RestAPITEST">
-        <test-method signature="RestAPPITest01()[pri:0, instance:PMSMAVEN01.PMSUS.RestAPITEST@6fe7aac8]" started-at="2021-09-01T17:36:53 IST" name="RestAPPITest01" finished-at="2021-09-01T17:36:53 IST" duration-ms="14" status="PASS">
+        <test-method status="PASS" signature="RestAPPITest01()[pri:0, instance:PMSMAVEN01.PMSUS.RestAPITEST@80503]" name="RestAPPITest01" duration-ms="9" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RestAPPITest01 -->
-        <test-method signature="RestAPPITest02()[pri:0, instance:PMSMAVEN01.PMSUS.RestAPITEST@6fe7aac8]" started-at="2021-09-01T17:36:53 IST" name="RestAPPITest02" finished-at="2021-09-01T17:36:53 IST" duration-ms="2" status="PASS">
+        <test-method status="PASS" signature="RestAPPITest02()[pri:0, instance:PMSMAVEN01.PMSUS.RestAPITEST@80503]" name="RestAPPITest02" duration-ms="2" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RestAPPITest02 -->
-        <test-method signature="RestAPPITest03()[pri:0, instance:PMSMAVEN01.PMSUS.RestAPITEST@6fe7aac8]" started-at="2021-09-01T17:36:53 IST" name="RestAPPITest03" finished-at="2021-09-01T17:36:53 IST" duration-ms="2" status="PASS">
+        <test-method status="PASS" signature="RestAPPITest03()[pri:0, instance:PMSMAVEN01.PMSUS.RestAPITEST@80503]" name="RestAPPITest03" duration-ms="1" started-at="2021-09-02T16:58:08 IST" finished-at="2021-09-02T16:58:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RestAPPITest03 -->
-        <test-method signature="Selenium06()[pri:0, instance:PMSMAVEN01.PMSUS.RestAPITEST@6fe7aac8]" started-at="2021-09-01T17:36:53 IST" name="Selenium06" finished-at="2021-09-01T17:36:53 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Selenium06 -->
       </class> <!-- PMSMAVEN01.PMSUS.RestAPITEST -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

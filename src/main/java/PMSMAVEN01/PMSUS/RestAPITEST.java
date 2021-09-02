@@ -21,6 +21,12 @@ public class RestAPITEST {
 	{
 		System.out.println("This is Rest API First users (Creator) update 01");
 	}
+	@Test
+	public void RestAPPITest04()
+	{
+		System.out.println("This is Rest API 2nd users (Teammate) update 01");
+	}
+	
 	
 	
 	
