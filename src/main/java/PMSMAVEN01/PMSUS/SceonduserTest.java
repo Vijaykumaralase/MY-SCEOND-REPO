@@ -14,5 +14,11 @@ public class SceonduserTest {
 	{
 		System.out.println("Hi i am sceond user 01");
 	}
+	
+	@Test 
+	public void Sceondmethod01()
+	{
+		System.out.println("this should go into branch01");
+	}
 
 }
