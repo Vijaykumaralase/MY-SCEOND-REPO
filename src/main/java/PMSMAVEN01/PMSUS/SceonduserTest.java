@@ -20,5 +20,11 @@ public class SceonduserTest {
 	{
 		System.out.println("this should go into branch01");
 	}
+	
+	@Test 
+	public void Sceondmethod02()
+	{
+		System.out.println("this should go into branch01 as second user update");
+	}
 
 }
